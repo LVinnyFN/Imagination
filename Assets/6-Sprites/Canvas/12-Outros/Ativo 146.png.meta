@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: d482eeac45aa24247a4ec9ff59c80385
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3045864038936561974
+    second: quitazul
+  - first:
+      213: -8953505908938276967
+    second: skilltooltipback
+  - first:
+      213: -6333201925068404649
+    second: quitamarelo
+  - first:
+      213: 624990705901849611
+    second: saveazul
+  - first:
+      213: 5091396239550228905
+    second: saveamarelo
+  - first:
+      213: 1127480211483740272
+    second: deliverazul
+  - first:
+      213: -827634749538953701
+    second: deliveramarelo
+  - first:
+      213: 7022021580723267343
+    second: acceptazul
+  - first:
+      213: 408789134991190536
+    second: acceptamarelo
+  - first:
+      213: 9189749925900949914
+    second: audioinactive
+  - first:
+      213: 5253225810896052419
+    second: videoactive
+  - first:
+      213: -6584305590508288031
+    second: audioactive
+  - first:
+      213: -1892380486392823169
+    second: videoinactive
+  - first:
+      213: -8157547708946557054
+    second: tantrumcinza
+  - first:
+      213: -6190022095061377602
+    second: exclamation
+  - first:
+      213: 2916243384965390417
+    second: bordabranca
+  - first:
+      213: -6555354936542088783
+    second: setinha
+  - first:
+      213: 5837079388463854702
+    second: estrelinha
+  - first:
+      213: -7576541664087020290
+    second: Ativo 146_18
+  - first:
+      213: 5383104197804664284
+    second: Ativo 146_19
+  - first:
+      213: -3396219603498803456
+    second: Ativo 146_20
+  - first:
+      213: 1499832348711412094
+    second: tantrumcolorido
+  - first:
+      213: -5877305147908915879
+    second: teleportconfirm
+  - first:
+      213: -27355555418593526
+    second: Ativo 146_23
+  - first:
+      213: -7702078266502886804
+    second: Ativo 146_24
+  - first:
+      213: 965300632116470094
+    second: Ativo 146_25
+  - first:
+      213: 4379020289647489473
+    second: Ativo 146_26
+  - first:
+      213: 8529304380285521903
+    second: Ativo 146_27
+  - first:
+      213: 4728270494890381439
+    second: Ativo 146_28
+  - first:
+      213: -9102029528010087033
+    second: Ativo 146_29
+  - first:
+      213: -265441546289083383
+    second: Ativo 146_30
+  - first:
+      213: 6573806824352744564
+    second: Ativo 146_31
+  - first:
+      213: 7207366528260962543
+    second: Ativo 146_32
+  - first:
+      213: -4415550460678930482
+    second: Ativo 146_33
+  - first:
+      213: 2109265216103200052
+    second: Ativo 146_34
+  - first:
+      213: 3857675106885067321
+    second: Ativo 146_35
+  - first:
+      213: -4339006278687693720
+    second: Ativo 146_36
+  - first:
+      213: -3999834417179442223
+    second: Ativo 146_37
+  - first:
+      213: 7354675246326004181
+    second: Ativo 146_38
+  - first:
+      213: -4340231925976693218
+    second: Ativo 146_39
+  - first:
+      213: -8315804751517901900
+    second: Ativo 146_40
+  - first:
+      213: 1917094102185346824
+    second: Ativo 146_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quitazul
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2744
+        width: 333
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63943faa435154a20800000000000000
+      internalID: 3045864038936561974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skilltooltipback
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1892
+        width: 663
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f7f5340d1ceb380800000000000000
+      internalID: -8953505908938276967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quitamarelo
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2649
+        width: 333
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7584a756762fb18a0800000000000000
+      internalID: -6333201925068404649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saveazul
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2549
+        width: 333
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c43355cb96ca800800000000000000
+      internalID: 624990705901849611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saveamarelo
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2446
+        width: 333
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9a62d87e548a640800000000000000
+      internalID: 5091396239550228905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deliverazul
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2350
+        width: 333
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07845c8574d95af00800000000000000
+      internalID: 1127480211483740272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deliveramarelo
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2246
+        width: 333
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1616fd8496a384f0800000000000000
+      internalID: -827634749538953701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceptazul
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2151
+        width: 333
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0723246c6b337160800000000000000
+      internalID: 7022021580723267343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acceptamarelo
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2047
+        width: 333
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a603b6d8f4ca500800000000000000
+      internalID: 408789134991190536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audioinactive
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1782
+        width: 385
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a999ff34edc888f70800000000000000
+      internalID: 9189749925900949914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: videoactive
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1778
+        width: 385
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06f5fca0537e840800000000000000
+      internalID: 5253225810896052419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: audioactive
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1625
+        width: 385
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7822953f8df94a0800000000000000
+      internalID: -6584305590508288031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: videoinactive
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1625
+        width: 385
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72cca059f9ecb5e0800000000000000
+      internalID: -1892380486392823169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tantrumcinza
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1417
+        width: 359
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28750f944919ace80800000000000000
+      internalID: -8157547708946557054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exclamation
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1448
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd1c0063bf981aa0800000000000000
+      internalID: -6190022095061377602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bordabranca
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1419
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e17f58e3987820800000000000000
+      internalID: 2916243384965390417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: setinha
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1430
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b13eceba63b605a0800000000000000
+      internalID: -6555354936542088783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelinha
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1433
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64742317c8710150800000000000000
+      internalID: 5837079388463854702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tantrumcolorido
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1023
+        width: 359
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71659f139970d410800000000000000
+      internalID: 1499832348711412094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleportconfirm
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1028
+        width: 868
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d70567b1e9f6ea0800000000000000
+      internalID: -5877305147908915879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ead20ef90d44c7347b696addc069a854
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

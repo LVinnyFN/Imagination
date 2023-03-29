@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collision
+  - NPC
+  - DataBase
+  - Enemy
+  - Weapon
+  - baccept
+  - bcancel
+  - HitPoint
+  - Drop
+  - Action
+  - tutchest
+  - LoadScreen
+  - Blacksmith
+  - Shopping
+  - Fire
+  - Mushroomson
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Minimap Only
+  - Map
+  - Player Only
+  - Terrenos
+  - Enemy
+  - Grama
+  - Post processing
+  - CameraCollisionIgnore
+  - NavMesh
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

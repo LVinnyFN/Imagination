@@ -1,0 +1,1981 @@
+fileFormatVersion: 2
+guid: 319c81ee28290a24d894924489e93121
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3747202681002345055
+    second: cardboardarmor1
+  - first:
+      213: -1874243774675285122
+    second: cardboardarmor2
+  - first:
+      213: -5558978212260733145
+    second: cardboardarmor3
+  - first:
+      213: -1392733003096086103
+    second: cardboardarmor0
+  - first:
+      213: 4031576938120896649
+    second: woodenarmor1
+  - first:
+      213: 2046143583420975080
+    second: woodenarmor2
+  - first:
+      213: -8658312475502300972
+    second: woodenarmor3
+  - first:
+      213: -4164846752893682371
+    second: woodenarmor0
+  - first:
+      213: 329796313614469871
+    second: ironarmor1
+  - first:
+      213: -2484834482782982487
+    second: ironarmor2
+  - first:
+      213: 8758006819837079501
+    second: ironarmor3
+  - first:
+      213: -5398597680254351790
+    second: ironarmor0
+  - first:
+      213: 2598298051083121384
+    second: cardboardhelmet1
+  - first:
+      213: -3596922809146928653
+    second: cardboardhelmet2
+  - first:
+      213: -8634259579752895385
+    second: cardboardhelmet3
+  - first:
+      213: -7437052478117904285
+    second: cardboardhelmet0
+  - first:
+      213: 1234902661602234202
+    second: woodenhelmet1
+  - first:
+      213: -5790982336464114830
+    second: woodenhelmet2
+  - first:
+      213: 7549884751005560925
+    second: woodenhelmet3
+  - first:
+      213: -7250860800336264396
+    second: woodenhelmet0
+  - first:
+      213: -2796549580845540810
+    second: ironhelmet1
+  - first:
+      213: -8822802645607834513
+    second: ironhelmet2
+  - first:
+      213: -6875572183891202663
+    second: ironhelmet3
+  - first:
+      213: -1255033755958903163
+    second: ironhelmet0
+  - first:
+      213: 3055459457102099322
+    second: cardboardshield1
+  - first:
+      213: 6374565271457103728
+    second: cardboardshield2
+  - first:
+      213: 7293504350305171174
+    second: cardboardshield3
+  - first:
+      213: 7441551036396451830
+    second: cardboardshield0
+  - first:
+      213: -7295275722401957481
+    second: woodenshield1
+  - first:
+      213: 3342763645788143987
+    second: woodenshield2
+  - first:
+      213: 5657011501075970544
+    second: woodenshield3
+  - first:
+      213: -5261927671601179646
+    second: woodenshield0
+  - first:
+      213: 2570313884339873970
+    second: ironshield1
+  - first:
+      213: 1240010865432195752
+    second: ironshield2
+  - first:
+      213: 2474544799000108883
+    second: ironshield3
+  - first:
+      213: 4412235195734264765
+    second: ironshield0
+  - first:
+      213: -7122633117085884357
+    second: cardboardsword1
+  - first:
+      213: 6325062194074677257
+    second: cardboardsword2
+  - first:
+      213: 5614320610848191200
+    second: cardboardsword3
+  - first:
+      213: 9183436707038772852
+    second: cardboardsword0
+  - first:
+      213: -8622223893458663378
+    second: woodensword1
+  - first:
+      213: -504195489474164703
+    second: woodensword2
+  - first:
+      213: -1426223490962634659
+    second: woodensword3
+  - first:
+      213: 5133476364687573259
+    second: woodensword0
+  - first:
+      213: -6048605498428631427
+    second: ironsword1
+  - first:
+      213: 4956381855697041580
+    second: ironsword2
+  - first:
+      213: -7174461070746596355
+    second: ironsword3
+  - first:
+      213: -426890994300107293
+    second: ironsword0
+  - first:
+      213: -2811755556645089557
+    second: iron
+  - first:
+      213: 7344338091477168115
+    second: wood
+  - first:
+      213: 4214309888113203834
+    second: bones
+  - first:
+      213: 6738721077015974987
+    second: goo
+  - first:
+      213: -5491384097476974847
+    second: honey
+  - first:
+      213: -1400068746465304759
+    second: cactusflower
+  - first:
+      213: -4390599876386652614
+    second: leather
+  - first:
+      213: 8459643618200436664
+    second: stones
+  - first:
+      213: 4250549663825818288
+    second: cardboardboots2
+  - first:
+      213: -2825860596558770852
+    second: cardboardboots1
+  - first:
+      213: -8963296755010040259
+    second: cardboardboots3
+  - first:
+      213: -5902509241216973372
+    second: cardboardboots0
+  - first:
+      213: -3759829071216934489
+    second: woodenboots1
+  - first:
+      213: 16735316864249829
+    second: woodenboots2
+  - first:
+      213: 5605683290937646543
+    second: woodenboots3
+  - first:
+      213: -6182315452823407459
+    second: woodenboots0
+  - first:
+      213: -8271002794231133514
+    second: ironboots1
+  - first:
+      213: 7808935574453963128
+    second: ironboots2
+  - first:
+      213: -2369869105056284413
+    second: ironboots3
+  - first:
+      213: 1295392677890780028
+    second: ironboots0
+  - first:
+      213: 5754951701291933708
+    second: vine
+  - first:
+      213: -4746889527543035782
+    second: cardboard
+  - first:
+      213: 3917440894351992344
+    second: sellnovo
+  - first:
+      213: -7471160451389520467
+    second: posionedattack
+  - first:
+      213: -545619366669296220
+    second: revive
+  - first:
+      213: 6197521432423384673
+    second: lifesteal
+  - first:
+      213: 7882550719451779439
+    second: thorns
+  - first:
+      213: 5783737180140883000
+    second: bargain
+  - first:
+      213: -2650721864136395151
+    second: doubleloot
+  - first:
+      213: -2723920555227434995
+    second: questselected
+  - first:
+      213: 5148603823423149669
+    second: iconesfinais_0
+  - first:
+      213: -3962723503285369960
+    second: iconesfinais_1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cardboardarmor1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1628
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb671e3034ffbc0800000000000000
+      internalID: -3747202681002345055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardarmor2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1629
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b0ef397395df5e0800000000000000
+      internalID: -1874243774675285122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardarmor3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1629
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f1018c4ca8ad2b0800000000000000
+      internalID: -5558978212260733145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardarmor0
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1627
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9ae7376b40cace0800000000000000
+      internalID: -1392733003096086103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenarmor1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1627
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9806a517dd903f730800000000000000
+      internalID: 4031576938120896649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenarmor2
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1628
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e780498fbc556c10800000000000000
+      internalID: 2046143583420975080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenarmor3
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1627
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d03a5f5dae77d780800000000000000
+      internalID: -8658312475502300972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenarmor0
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1628
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d35ddc1fd7336c0800000000000000
+      internalID: -4164846752893682371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironarmor1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1462
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea4939fffba39400800000000000000
+      internalID: 329796313614469871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironarmor2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1463
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae24100438148dd0800000000000000
+      internalID: -2484834482782982487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironarmor3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1462
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf66dcfcc0ba8970800000000000000
+      internalID: 8758006819837079501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironarmor0
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1462
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256013743045415b0800000000000000
+      internalID: -5398597680254351790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardhelmet1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1462
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e23663af420f0420800000000000000
+      internalID: 2598298051083121384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardhelmet2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1462
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f11c4c23c9251ec0800000000000000
+      internalID: -3596922809146928653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardhelmet3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1462
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca05298a2fc2880800000000000000
+      internalID: -8634259579752895385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardhelmet0
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1462
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36008d1ac284ac890800000000000000
+      internalID: -7437052478117904285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenhelmet1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1294
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4cfc8d61432110800000000000000
+      internalID: 1234902661602234202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenhelmet2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1294
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bae763f3c42afa0800000000000000
+      internalID: -5790982336464114830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenhelmet3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1294
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5033d61e2496c860800000000000000
+      internalID: 7549884751005560925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenhelmet0
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1294
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4330720d484cf5b90800000000000000
+      internalID: -7250860800336264396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironhelmet1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1294
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a1fe419f8a039d0800000000000000
+      internalID: -2796549580845540810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironhelmet2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1294
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1b213dbb1f8580800000000000000
+      internalID: -8822802645607834513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironhelmet3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1294
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dab9fe68f0590a0800000000000000
+      internalID: -6875572183891202663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironhelmet0
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1294
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ef1fac279359ee0800000000000000
+      internalID: -1255033755958903163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardshield1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1125
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73bd2e003c276a20800000000000000
+      internalID: 3055459457102099322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardshield2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1126
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ffdba2751077850800000000000000
+      internalID: 6374565271457103728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardshield3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1125
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6b4bf509bb73560800000000000000
+      internalID: 7293504350305171174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardshield0
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1125
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b9569d33b54760800000000000000
+      internalID: 7441551036396451830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenshield1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1125
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79933bbe169f1ca90800000000000000
+      internalID: -7295275722401957481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenshield2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1126
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ca4b33d1e36e20800000000000000
+      internalID: 3342763645788143987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenshield3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1126
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9bee3fcfdb18e40800000000000000
+      internalID: 5657011501075970544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenshield0
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1126
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204d96c59a0e9f6b0800000000000000
+      internalID: -5261927671601179646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 956
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b825551cd69ba320800000000000000
+      internalID: 2570313884339873970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 957
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2f5bfef47653110800000000000000
+      internalID: 1240010865432195752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 957
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f113d4269575220800000000000000
+      internalID: 2474544799000108883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironshield0
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 957
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb873398886b3d30800000000000000
+      internalID: 4412235195734264765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardsword1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 957
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a9a6dae2572d90800000000000000
+      internalID: -7122633117085884357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardsword2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 957
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900f21ccd8227c750800000000000000
+      internalID: 6325062194074677257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardsword3
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 956
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2b2c089d21aed40800000000000000
+      internalID: 5614320610848191200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardsword0
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 957
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e3454770f127f70800000000000000
+      internalID: 9183436707038772852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodensword1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 789
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28c2882d05b75880800000000000000
+      internalID: -8622223893458663378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodensword2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 789
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128c988afdcb009f0800000000000000
+      internalID: -504195489474164703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodensword3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 789
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58cada9a49053ce0800000000000000
+      internalID: -1426223490962634659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodensword0
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 789
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01011c2e85cd3740800000000000000
+      internalID: 5133476364687573259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironsword1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 790
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76dfa798590f0ca0800000000000000
+      internalID: -6048605498428631427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironsword2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 788
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca87308a90b98c440800000000000000
+      internalID: 4956381855697041580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironsword3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 788
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbc7470ba13f6c90800000000000000
+      internalID: -7174461070746596355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironsword0
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 788
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5cde607e0631af0800000000000000
+      internalID: -426890994300107293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 621
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee40f2f733aaf8d0800000000000000
+      internalID: -2811755556645089557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 621
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffeddc05945ce560800000000000000
+      internalID: 7344338091477168115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bones
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 621
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a576ec38c3c7a30800000000000000
+      internalID: 4214309888113203834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goo
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 621
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4499f3cd1fb48d50800000000000000
+      internalID: 6738721077015974987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: honey
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 621
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107e7a8024faac3b0800000000000000
+      internalID: -5491384097476974847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactusflower
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 621
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1fc994e4f19ce0800000000000000
+      internalID: -1400068746465304759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leather
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 621
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e7911cca47113c0800000000000000
+      internalID: -4390599876386652614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stones
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 621
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfbc35bc01b66570800000000000000
+      internalID: 8459643618200436664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardboots2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 453
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b27e7c166cfcfa30800000000000000
+      internalID: 4250549663825818288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardboots1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 451
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d475d62c688c8d0800000000000000
+      internalID: -2825860596558770852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardboots3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 451
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e07354719fb9380800000000000000
+      internalID: -8963296755010040259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboardboots0
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 451
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c54dc13e13161ea0800000000000000
+      internalID: -5902509241216973372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenboots1
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 451
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a18de1516762dbc0800000000000000
+      internalID: -3759829071216934489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenboots2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 451
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa5e89ea47b3000800000000000000
+      internalID: 16735316864249829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenboots3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 451
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5eafb0436bcd40800000000000000
+      internalID: 5605683290937646543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodenboots0
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 451
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d947d09d9d0043aa0800000000000000
+      internalID: -6182315452823407459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironboots1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 285
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba0791c7ce773d80800000000000000
+      internalID: -8271002794231133514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironboots2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 283
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8794d3d0889ee5c60800000000000000
+      internalID: 7808935574453963128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironboots3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 283
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30182f4ea988c1fd0800000000000000
+      internalID: -2369869105056284413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ironboots0
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 283
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b625af6c82af110800000000000000
+      internalID: 1295392677890780028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vine
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 283
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00290fc412bddf40800000000000000
+      internalID: 5754951701291933708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardboard
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 283
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7886c2ff19af1eb0800000000000000
+      internalID: -4746889527543035782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sellnovo
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 298
+        width: 358
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8166078ecbb8d5630800000000000000
+      internalID: 3917440894351992344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: posionedattack
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 129
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da50bf2472b115890800000000000000
+      internalID: -7471160451389520467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revive
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 132
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad5a1ba3129d68f0800000000000000
+      internalID: -545619366669296220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifesteal
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 134
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166477b28e4020650800000000000000
+      internalID: 6197521432423384673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 129
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615ce4ad12746d60800000000000000
+      internalID: 7882550719451779439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bargain
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 127
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c44806256f34050800000000000000
+      internalID: 5783737180140883000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doubleloot
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 125
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176f9c9328eb63bd0800000000000000
+      internalID: -2650721864136395151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questselected
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 123
+        width: 801
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b84ddfa0b23ad0800000000000000
+      internalID: -2723920555227434995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 021eb32cb11d8bf428992da33fd8d23f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

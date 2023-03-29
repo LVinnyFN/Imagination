@@ -1,0 +1,1757 @@
+fileFormatVersion: 2
+guid: b2d59e806a0502f49bf9d3f73c62b649
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6788479545204749139
+    second: Ativo 184_0
+  - first:
+      213: 2312340331936490150
+    second: Ativo 184_1
+  - first:
+      213: -2779753535186174259
+    second: Ativo 184_2
+  - first:
+      213: 8040686020651192622
+    second: Ativo 184_3
+  - first:
+      213: -4196495412530293970
+    second: Ativo 184_4
+  - first:
+      213: 8785754658856302195
+    second: Ativo 184_5
+  - first:
+      213: 6478509352666781397
+    second: Ativo 184_6
+  - first:
+      213: 362934574268332364
+    second: Ativo 184_7
+  - first:
+      213: 5185693175785987487
+    second: Ativo 184_8
+  - first:
+      213: 8668210340727599572
+    second: Ativo 184_9
+  - first:
+      213: -7158309926060134884
+    second: Ativo 184_10
+  - first:
+      213: 8976673099746934489
+    second: Ativo 184_11
+  - first:
+      213: 8792491285697201872
+    second: Ativo 184_12
+  - first:
+      213: 9089842158037493859
+    second: Ativo 184_13
+  - first:
+      213: 9154949417313595166
+    second: Ativo 184_14
+  - first:
+      213: -6717541753546553766
+    second: Ativo 184_15
+  - first:
+      213: 3950922820702917834
+    second: Ativo 184_16
+  - first:
+      213: 7074228056166903771
+    second: Ativo 184_17
+  - first:
+      213: -4083845166578340703
+    second: Ativo 184_18
+  - first:
+      213: -6305789740349478767
+    second: Ativo 184_19
+  - first:
+      213: -8126963195217355461
+    second: Ativo 184_20
+  - first:
+      213: 6299038177011803475
+    second: Ativo 184_21
+  - first:
+      213: -5985376522009648055
+    second: Ativo 184_22
+  - first:
+      213: -5262061075568263586
+    second: Ativo 184_23
+  - first:
+      213: 1602342975222153419
+    second: Ativo 184_24
+  - first:
+      213: 3626973380573033891
+    second: Espada
+  - first:
+      213: -3218409426912050970
+    second: Ativo 184_26
+  - first:
+      213: -4908136729333627203
+    second: Ativo 184_27
+  - first:
+      213: -2023952859783630665
+    second: Ativo 184_28
+  - first:
+      213: 2123894950789252895
+    second: Ativo 184_29
+  - first:
+      213: -4522844748080742007
+    second: Ativo 184_30
+  - first:
+      213: 3340517487968166044
+    second: Ativo 184_31
+  - first:
+      213: -3534090323688941296
+    second: Ativo 184_32
+  - first:
+      213: -7622518647673648587
+    second: Ativo 184_33
+  - first:
+      213: -3254342284768559523
+    second: Ativo 184_34
+  - first:
+      213: 8621409542227921721
+    second: Ativo 184_35
+  - first:
+      213: -1073832961345386705
+    second: Ativo 184_36
+  - first:
+      213: -52018115559700474
+    second: Ativo 184_37
+  - first:
+      213: 1300901961322823308
+    second: Ativo 184_38
+  - first:
+      213: 2947377907555786763
+    second: Ativo 184_39
+  - first:
+      213: 967589790227411828
+    second: Ativo 184_40
+  - first:
+      213: 7471799417137543005
+    second: Ativo 184_41
+  - first:
+      213: -4378464533014403981
+    second: Ativo 184_42
+  - first:
+      213: 8129877992089040323
+    second: Ativo 184_43
+  - first:
+      213: -9190020839873270220
+    second: Ativo 184_44
+  - first:
+      213: -3434817815895552736
+    second: Ativo 184_45
+  - first:
+      213: 7704133589373533180
+    second: Ativo 184_46
+  - first:
+      213: -302616258503204432
+    second: Ativo 184_47
+  - first:
+      213: -6322483760673266838
+    second: Ativo 184_48
+  - first:
+      213: 2976340412116566711
+    second: Ativo 184_49
+  - first:
+      213: 554861807602355692
+    second: Ativo 184_50
+  - first:
+      213: 3382953993938050471
+    second: Ativo 184_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ativo 184_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1103
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 80}
+        - {x: -80, y: -80}
+        - {x: 80, y: -80}
+        - {x: 80, y: 80}
+      - - {x: -24, y: 32}
+        - {x: 22, y: 34}
+        - {x: 37, y: -13}
+        - {x: -2, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc01f02d97ac1a0800000000000000
+      internalID: -6788479545204749139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1103
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a222e4d745171020800000000000000
+      internalID: 2312340331936490150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1103
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce771433e45c69d0800000000000000
+      internalID: -2779753535186174259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 922
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e211d5b9551469f60800000000000000
+      internalID: 8040686020651192622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 920
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23539208ad03c5c0800000000000000
+      internalID: -4196495412530293970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 920
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376fcd430554de970800000000000000
+      internalID: 8785754658856302195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 920
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6dfbf7ee948e950800000000000000
+      internalID: 6478509352666781397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_7
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 920
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b8f78217690500800000000000000
+      internalID: 362934574268332364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_8
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 922
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d14e8e77847f740800000000000000
+      internalID: 5185693175785987487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_9
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1bf65f06bab4870800000000000000
+      internalID: 8668210340727599572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_10
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 930
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e68017c0398ac90800000000000000
+      internalID: -7158309926060134884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 736
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de783faf9c839c70800000000000000
+      internalID: 8976673099746934489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 736
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d603be5d34350a70800000000000000
+      internalID: 8792491285697201872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 736
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e13e584b952e70800000000000000
+      internalID: 9089842158037493859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_14
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 736
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f65a37df9ec0f70800000000000000
+      internalID: 9154949417313595166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_15
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 736
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56c000cd5f76c2a0800000000000000
+      internalID: -6717541753546553766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_16
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 736
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac45bfe5f5f74d630800000000000000
+      internalID: 3950922820702917834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_17
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 736
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2eebafe4bc2260800000000000000
+      internalID: 7074228056166903771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_18
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 745
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace66845744357c0800000000000000
+      internalID: -4083845166578340703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 552
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198aa2204a55d78a0800000000000000
+      internalID: -6305789740349478767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 552
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d556e480a373f80800000000000000
+      internalID: -8126963195217355461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 552
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a96729ddaa6750800000000000000
+      internalID: 6299038177011803475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_22
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 552
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944e6aed3cbafeca0800000000000000
+      internalID: -5985376522009648055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_23
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 552
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef754d45769f6b0800000000000000
+      internalID: -5262061075568263586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_24
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 552
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc08576427aac3610800000000000000
+      internalID: 1602342975222153419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 552
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a57ad6b219955230800000000000000
+      internalID: 3626973380573033891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_26
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 561
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e083279da9e553d0800000000000000
+      internalID: -3218409426912050970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6850b26abc2ebb0800000000000000
+      internalID: -4908136729333627203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 368
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f57ee89979e3e0800000000000000
+      internalID: -2023952859783630665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 368
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170a027437997d10800000000000000
+      internalID: 2123894950789252895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_30
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 368
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98108682aa0ab31c0800000000000000
+      internalID: -4522844748080742007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_31
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 368
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a25cd4f6eb5e20800000000000000
+      internalID: 3340517487968166044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_32
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 368
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191064339364fec0800000000000000
+      internalID: -3534090323688941296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 368
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0f9ffcaf573690800000000000000
+      internalID: -7622518647673648587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_34
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 378
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e36da2fe046d2d0800000000000000
+      internalID: -3254342284768559523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b88abec4665a770800000000000000
+      internalID: 8621409542227921721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 184
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2707ee6c9af811f0800000000000000
+      internalID: -1073832961345386705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 184
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608cd2cacc1374ff0800000000000000
+      internalID: -52018115559700474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_38
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 184
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e714cf07bbd0210800000000000000
+      internalID: 1300901961322823308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_39
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 184
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0062be479037e820800000000000000
+      internalID: 2947377907555786763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_40
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 184
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473bcc6a9c19d6d00800000000000000
+      internalID: 967589790227411828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_41
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 184
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57347b8bf921b760800000000000000
+      internalID: 7471799417137543005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_42
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 229
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a70094b19c33c0800000000000000
+      internalID: -4378464533014403981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_43
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 194
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5bbb9b5f023d070800000000000000
+      internalID: 8129877992089040323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eaae8acbc767080800000000000000
+      internalID: -9190020839873270220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dcc5715631550d0800000000000000
+      internalID: -3434817815895552736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb3c86ea49aea60800000000000000
+      internalID: 7704133589373533180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_47
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a8a0cd14eccbf0800000000000000
+      internalID: -302616258503204432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_48
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e4e284860248a0800000000000000
+      internalID: -6322483760673266838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_49
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b209d2e5d51e4920800000000000000
+      internalID: 2976340412116566711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_50
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc19dcfd343b700800000000000000
+      internalID: 554861807602355692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ativo 184_51
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 9
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9a2cdbbaa2fe20800000000000000
+      internalID: 3382953993938050471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -719, y: -471.5}
+      - {x: -719, y: -631.5}
+      - {x: -555, y: -631.5}
+      - {x: -555, y: -471.5}
+      - {x: -557, y: -469.5}
+      - {x: -717, y: -469.5}
+    - - {x: -520, y: -471.5}
+      - {x: -520, y: -631.5}
+      - {x: -357, y: -631.5}
+      - {x: -357, y: -471.5}
+      - {x: -359, y: -469.5}
+      - {x: -518, y: -469.5}
+    - - {x: -330, y: -471.5}
+      - {x: -330, y: -631.5}
+      - {x: -166, y: -631.5}
+      - {x: -166, y: -471.5}
+      - {x: -168, y: -469.5}
+      - {x: -328, y: -469.5}
+    - - {x: -147, y: -471.5}
+      - {x: -147, y: -631.5}
+      - {x: 16, y: -631.5}
+      - {x: 16, y: -471.5}
+      - {x: 14, y: -469.5}
+      - {x: -145, y: -469.5}
+    - - {x: 51, y: -471.5}
+      - {x: 51, y: -631.5}
+      - {x: 215, y: -631.5}
+      - {x: 215, y: -471.5}
+      - {x: 213, y: -469.5}
+      - {x: 53, y: -469.5}
+    - - {x: 241, y: -471.5}
+      - {x: 241, y: -631.5}
+      - {x: 405, y: -631.5}
+      - {x: 405, y: -471.5}
+      - {x: 403, y: -469.5}
+      - {x: 243, y: -469.5}
+    - - {x: 475, y: -493.5}
+      - {x: 446, y: -508.5}
+      - {x: 446, y: -576.5}
+      - {x: 461, y: -609.5}
+      - {x: 518, y: -609.5}
+      - {x: 526, y: -572.5}
+      - {x: 526, y: -500.5}
+      - {x: 506, y: -493.5}
+    - - {x: 630, y: -514.5}
+      - {x: 601, y: -534.5}
+      - {x: 601, y: -583.5}
+      - {x: 621, y: -600.5}
+      - {x: 680, y: -600.5}
+      - {x: 692, y: -598.5}
+      - {x: 693, y: -593.5}
+      - {x: 693, y: -532.5}
+      - {x: 679, y: -514.5}
+    - - {x: -719, y: -449.5}
+      - {x: -555, y: -449.5}
+      - {x: -555, y: -285.5}
+      - {x: -719, y: -285.5}
+    - - {x: -520, y: -285.5}
+      - {x: -520, y: -449.5}
+      - {x: -359, y: -449.5}
+      - {x: -357, y: -447.5}
+      - {x: -357, y: -287.5}
+      - {x: -359, y: -285.5}
+    - - {x: -330, y: -285.5}
+      - {x: -330, y: -449.5}
+      - {x: -166, y: -449.5}
+      - {x: -166, y: -285.5}
+    - - {x: -145, y: -285.5}
+      - {x: -147, y: -287.5}
+      - {x: -147, y: -447.5}
+      - {x: -145, y: -449.5}
+      - {x: 14, y: -449.5}
+      - {x: 16, y: -447.5}
+      - {x: 16, y: -287.5}
+      - {x: 14, y: -285.5}
+    - - {x: 51, y: -449.5}
+      - {x: 215, y: -449.5}
+      - {x: 215, y: -285.5}
+      - {x: 51, y: -285.5}
+    - - {x: 241, y: -447.5}
+      - {x: 242, y: -449.5}
+      - {x: 405, y: -449.5}
+      - {x: 405, y: -285.5}
+      - {x: 243, y: -285.5}
+      - {x: 241, y: -287.5}
+    - - {x: 455, y: -325.5}
+      - {x: 436, y: -378.5}
+      - {x: 436, y: -408.5}
+      - {x: 460, y: -421.5}
+      - {x: 499, y: -421.5}
+      - {x: 522, y: -406.5}
+      - {x: 522, y: -325.5}
+    - - {x: 447, y: -387.5}
+      - {x: 446, y: -388.5}
+      - {x: 447, y: -387.5}
+      - {x: 447, y: -384.5}
+      - {x: 448, y: -384.5}
+    - - {x: 629, y: -341.5}
+      - {x: 607, y: -350.5}
+      - {x: 595, y: -376.5}
+      - {x: 595, y: -396.5}
+      - {x: 704, y: -396.5}
+      - {x: 704, y: -375.5}
+      - {x: 671, y: -341.5}
+    - - {x: -719, y: -101.5}
+      - {x: -719, y: -265.5}
+      - {x: -555, y: -265.5}
+      - {x: -555, y: -101.5}
+    - - {x: -520, y: -101.5}
+      - {x: -520, y: -265.5}
+      - {x: -359, y: -265.5}
+      - {x: -357, y: -263.5}
+      - {x: -357, y: -103.5}
+      - {x: -359, y: -101.5}
+    - - {x: -328, y: -101.5}
+      - {x: -330, y: -103.5}
+      - {x: -330, y: -263.5}
+      - {x: -328, y: -265.5}
+      - {x: -168, y: -265.5}
+      - {x: -166, y: -263.5}
+      - {x: -166, y: -103.5}
+      - {x: -168, y: -101.5}
+    - - {x: -145, y: -101.5}
+      - {x: -147, y: -103.5}
+      - {x: -147, y: -263.5}
+      - {x: -145, y: -265.5}
+      - {x: 14, y: -265.5}
+      - {x: 16, y: -263.5}
+      - {x: 16, y: -103.5}
+      - {x: 14, y: -101.5}
+    - - {x: 53, y: -101.5}
+      - {x: 51, y: -103.5}
+      - {x: 51, y: -263.5}
+      - {x: 53, y: -265.5}
+      - {x: 213, y: -265.5}
+      - {x: 215, y: -263.5}
+      - {x: 215, y: -103.5}
+      - {x: 213, y: -101.5}
+    - - {x: 242, y: -101.5}
+      - {x: 241, y: -103.5}
+      - {x: 241, y: -263.5}
+      - {x: 243, y: -265.5}
+      - {x: 405, y: -265.5}
+      - {x: 405, y: -101.5}
+    - - {x: 494, y: -133.5}
+      - {x: 467, y: -133.5}
+      - {x: 437, y: -161.5}
+      - {x: 437, y: -207.5}
+      - {x: 486, y: -247.5}
+      - {x: 518, y: -247.5}
+      - {x: 518, y: -155.5}
+      - {x: 500, y: -135.5}
+    - - {x: 663, y: -140.5}
+      - {x: 652, y: -140.5}
+      - {x: 648, y: -149.5}
+      - {x: 647, y: -154.5}
+      - {x: 658, y: -167.5}
+      - {x: 655, y: -165.5}
+      - {x: 636, y: -166.5}
+      - {x: 647, y: -156.5}
+      - {x: 643, y: -140.5}
+      - {x: 627, y: -140.5}
+      - {x: 591, y: -154.5}
+      - {x: 588, y: -160.5}
+      - {x: 588, y: -211.5}
+      - {x: 626, y: -235.5}
+      - {x: 669, y: -235.5}
+      - {x: 685, y: -222.5}
+      - {x: 704, y: -198.5}
+      - {x: 704, y: -169.5}
+    - - {x: 483, y: -215.5}
+      - {x: 482, y: -211.5}
+      - {x: 485, y: -208.5}
+      - {x: 484, y: -207.5}
+      - {x: 484, y: -219.5}
+      - {x: 485, y: -218.5}
+    - - {x: -717, y: 81.5}
+      - {x: -719, y: 79.5}
+      - {x: -719, y: -79.5}
+      - {x: -717, y: -81.5}
+      - {x: -557, y: -81.5}
+      - {x: -555, y: -79.5}
+      - {x: -555, y: 79.5}
+      - {x: -557, y: 81.5}
+    - - {x: -518, y: 81.5}
+      - {x: -520, y: 79.5}
+      - {x: -520, y: -79.5}
+      - {x: -518, y: -81.5}
+      - {x: -359, y: -81.5}
+      - {x: -357, y: -79.5}
+      - {x: -357, y: 79.5}
+      - {x: -359, y: 81.5}
+    - - {x: -328, y: 81.5}
+      - {x: -330, y: 79.5}
+      - {x: -330, y: -79.5}
+      - {x: -328, y: -81.5}
+      - {x: -168, y: -81.5}
+      - {x: -166, y: -79.5}
+      - {x: -166, y: 79.5}
+      - {x: -168, y: 81.5}
+    - - {x: -145, y: 81.5}
+      - {x: -147, y: 79.5}
+      - {x: -147, y: -79.5}
+      - {x: -145, y: -81.5}
+      - {x: 14, y: -81.5}
+      - {x: 16, y: -79.5}
+      - {x: 16, y: 79.5}
+      - {x: 14, y: 81.5}
+    - - {x: 53, y: 81.5}
+      - {x: 51, y: 79.5}
+      - {x: 51, y: -79.5}
+      - {x: 53, y: -81.5}
+      - {x: 213, y: -81.5}
+      - {x: 215, y: -79.5}
+      - {x: 215, y: 79.5}
+      - {x: 213, y: 81.5}
+    - - {x: 243, y: 81.5}
+      - {x: 241, y: 79.5}
+      - {x: 241, y: -79.5}
+      - {x: 243, y: -81.5}
+      - {x: 403, y: -81.5}
+      - {x: 405, y: -79.5}
+      - {x: 405, y: 79.5}
+      - {x: 403, y: 81.5}
+    - - {x: 523, y: 67.5}
+      - {x: 516, y: 67.5}
+      - {x: 509, y: 60.5}
+      - {x: 504, y: 54.5}
+      - {x: 458, y: -21.5}
+      - {x: 447, y: -47.5}
+      - {x: 447, y: -60.5}
+      - {x: 449, y: -66.5}
+      - {x: 460, y: -66.5}
+      - {x: 484, y: -36.5}
+      - {x: 524, y: 51.5}
+      - {x: 524, y: 65.5}
+    - - {x: 615, y: 54.5}
+      - {x: 604, y: 51.5}
+      - {x: 604, y: -60.5}
+      - {x: 689, y: -60.5}
+      - {x: 689, y: 53.5}
+      - {x: 688, y: 54.5}
+    - - {x: -717, y: 265.5}
+      - {x: -719, y: 263.5}
+      - {x: -719, y: 104.5}
+      - {x: -717, y: 102.5}
+      - {x: -557, y: 102.5}
+      - {x: -555, y: 104.5}
+      - {x: -555, y: 263.5}
+      - {x: -557, y: 265.5}
+    - - {x: -518, y: 265.5}
+      - {x: -520, y: 263.5}
+      - {x: -520, y: 104.5}
+      - {x: -518, y: 102.5}
+      - {x: -359, y: 102.5}
+      - {x: -357, y: 104.5}
+      - {x: -357, y: 263.5}
+      - {x: -359, y: 265.5}
+    - - {x: -328, y: 265.5}
+      - {x: -330, y: 263.5}
+      - {x: -330, y: 104.5}
+      - {x: -328, y: 102.5}
+      - {x: -168, y: 102.5}
+      - {x: -166, y: 104.5}
+      - {x: -166, y: 263.5}
+      - {x: -168, y: 265.5}
+    - - {x: -145, y: 265.5}
+      - {x: -147, y: 263.5}
+      - {x: -147, y: 104.5}
+      - {x: -145, y: 102.5}
+      - {x: 14, y: 102.5}
+      - {x: 16, y: 104.5}
+      - {x: 16, y: 263.5}
+      - {x: 14, y: 265.5}
+    - - {x: 53, y: 265.5}
+      - {x: 51, y: 263.5}
+      - {x: 51, y: 104.5}
+      - {x: 53, y: 102.5}
+      - {x: 213, y: 102.5}
+      - {x: 215, y: 104.5}
+      - {x: 215, y: 263.5}
+      - {x: 213, y: 265.5}
+    - - {x: 243, y: 265.5}
+      - {x: 241, y: 263.5}
+      - {x: 241, y: 104.5}
+      - {x: 243, y: 102.5}
+      - {x: 403, y: 102.5}
+      - {x: 405, y: 104.5}
+      - {x: 405, y: 263.5}
+      - {x: 403, y: 265.5}
+    - - {x: 527, y: 257.5}
+      - {x: 524, y: 254.5}
+      - {x: 511, y: 230.5}
+      - {x: 442, y: 148.5}
+      - {x: 438, y: 138.5}
+      - {x: 438, y: 132.5}
+      - {x: 444, y: 124.5}
+      - {x: 459, y: 112.5}
+      - {x: 496, y: 112.5}
+      - {x: 533, y: 208.5}
+      - {x: 533, y: 257.5}
+    - - {x: 613, y: 247.5}
+      - {x: 595, y: 247.5}
+      - {x: 589, y: 241.5}
+      - {x: 589, y: 140.5}
+      - {x: 719, y: 140.5}
+      - {x: 719, y: 156.5}
+      - {x: 619, y: 246.5}
+    - - {x: -719, y: 286.5}
+      - {x: -555, y: 286.5}
+      - {x: -555, y: 449.5}
+      - {x: -719, y: 449.5}
+    - - {x: -518, y: 449.5}
+      - {x: -520, y: 447.5}
+      - {x: -520, y: 288.5}
+      - {x: -518, y: 286.5}
+      - {x: -359, y: 286.5}
+      - {x: -357, y: 288.5}
+      - {x: -357, y: 447.5}
+      - {x: -359, y: 449.5}
+    - - {x: -330, y: 449.5}
+      - {x: -330, y: 288.5}
+      - {x: -328, y: 286.5}
+      - {x: -168, y: 286.5}
+      - {x: -166, y: 288.5}
+      - {x: -166, y: 449.5}
+    - - {x: -145, y: 449.5}
+      - {x: -147, y: 447.5}
+      - {x: -147, y: 288.5}
+      - {x: -145, y: 286.5}
+      - {x: 14, y: 286.5}
+      - {x: 16, y: 288.5}
+      - {x: 16, y: 447.5}
+      - {x: 14, y: 449.5}
+    - - {x: 51, y: 449.5}
+      - {x: 51, y: 288.5}
+      - {x: 53, y: 286.5}
+      - {x: 213, y: 286.5}
+      - {x: 215, y: 288.5}
+      - {x: 215, y: 449.5}
+    - - {x: 241, y: 449.5}
+      - {x: 241, y: 288.5}
+      - {x: 243, y: 286.5}
+      - {x: 403, y: 286.5}
+      - {x: 405, y: 288.5}
+      - {x: 405, y: 449.5}
+    - - {x: 497, y: 439.5}
+      - {x: 432, y: 305.5}
+      - {x: 432, y: 295.5}
+      - {x: 439, y: 292.5}
+      - {x: 455, y: 292.5}
+      - {x: 484, y: 303.5}
+      - {x: 521, y: 388.5}
+      - {x: 521, y: 439.5}
+    - - {x: 699, y: 424.5}
+      - {x: 686, y: 424.5}
+      - {x: 587, y: 326.5}
+      - {x: 587, y: 310.5}
+      - {x: 606, y: 310.5}
+      - {x: 643, y: 323.5}
+      - {x: 687, y: 362.5}
+      - {x: 701, y: 414.5}
+      - {x: 701, y: 423.5}
+    - - {x: 679, y: 404.5}
+      - {x: 677, y: 400.5}
+      - {x: 610, y: 334.5}
+      - {x: 609, y: 333.5}
+      - {x: 607, y: 332.5}
+      - {x: 608, y: 332.5}
+    - - {x: -719, y: 631.5}
+      - {x: -719, y: 469.5}
+      - {x: -559, y: 469.5}
+      - {x: -557, y: 471.5}
+      - {x: -557, y: 631.5}
+    - - {x: -519, y: 631.5}
+      - {x: -519, y: 471.5}
+      - {x: -517, y: 469.5}
+      - {x: -357, y: 469.5}
+      - {x: -355, y: 471.5}
+      - {x: -355, y: 631.5}
+    - - {x: -334, y: 631.5}
+      - {x: -334, y: 471.5}
+      - {x: -332, y: 469.5}
+      - {x: -172, y: 469.5}
+      - {x: -170, y: 471.5}
+      - {x: -170, y: 631.5}
+    - - {x: -669, y: 524.5}
+      - {x: -663, y: 583.5}
+      - {x: -617, y: 585.5}
+      - {x: -599, y: 546.5}
+    - - {x: -446, y: 512.5}
+      - {x: -476, y: 554.5}
+      - {x: -413, y: 584.5}
+      - {x: -401, y: 531.5}
+    - - {x: -276, y: 583.5}
+      - {x: -239, y: 589.5}
+      - {x: -219, y: 527.5}
+      - {x: -254, y: 511.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

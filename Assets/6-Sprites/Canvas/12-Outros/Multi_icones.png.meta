@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 6a323672a6c7881479e666a81c894203
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2655852212310256546
+    second: Cardboard Armor1
+  - first:
+      213: -4196691919975425181
+    second: Cardboard Armor2
+  - first:
+      213: -8506095452748949819
+    second: Cardboard Armor3
+  - first:
+      213: 508543539403518970
+    second: Cardboard Armor
+  - first:
+      213: 4547939854767746291
+    second: Wooden Armor1
+  - first:
+      213: -1510569006000591763
+    second: Wooden Armor2
+  - first:
+      213: 4923421503426151635
+    second: Wooden Armor3
+  - first:
+      213: -2987217969783830214
+    second: Wooden Armor
+  - first:
+      213: -4083151153333538033
+    second: Iron Armor1
+  - first:
+      213: -3779613554957119063
+    second: Iron Armor2
+  - first:
+      213: 1097889444991418815
+    second: Iron Armor3
+  - first:
+      213: -2508277599778147251
+    second: Iron Armor
+  - first:
+      213: -4207022757240337872
+    second: Cardboard Helmet1
+  - first:
+      213: 4748642718702283668
+    second: Cardboard Helmet2
+  - first:
+      213: -6956948313434610516
+    second: Cardboard Helmet3
+  - first:
+      213: 5577972022370636462
+    second: Cardboard Helmet
+  - first:
+      213: -5709294694315106997
+    second: Wooden Helmet1
+  - first:
+      213: 7865404520474235334
+    second: Wooden Helmet2
+  - first:
+      213: -729881687444451039
+    second: Wooden Helmet3
+  - first:
+      213: -5364290956554963033
+    second: Wooden Helmet
+  - first:
+      213: 2195569240296812545
+    second: Iron Helmet1
+  - first:
+      213: -746824547966423378
+    second: Iron Helmet2
+  - first:
+      213: 454107288557232207
+    second: Iron Helmet3
+  - first:
+      213: 2024470928667987434
+    second: Iron Helmet
+  - first:
+      213: 8230604291540966556
+    second: Cardboard Shield1
+  - first:
+      213: -2067363179210706376
+    second: Cardboard Shield2
+  - first:
+      213: -7310691954574762983
+    second: Cardboard Shield3
+  - first:
+      213: 7677015198215543411
+    second: Cardboard Shield
+  - first:
+      213: -4291200438533356154
+    second: Wooden Shield1
+  - first:
+      213: -6337391612610196347
+    second: Wooden Shield2
+  - first:
+      213: 8020520712075985684
+    second: Wooden Shield3
+  - first:
+      213: 5355259125051266955
+    second: Wooden Shield
+  - first:
+      213: 2878558999253247800
+    second: Multi_icones_32
+  - first:
+      213: 6773262179652542729
+    second: Iron Shield2
+  - first:
+      213: 3291419796076796515
+    second: Iron Shield3
+  - first:
+      213: 7250883472539238239
+    second: Iron Shield
+  - first:
+      213: -8254173222815399730
+    second: Cardboard Sword1
+  - first:
+      213: 255059101794540091
+    second: Cardboard Sword2
+  - first:
+      213: 2680782035821417161
+    second: Cardboard Sword3
+  - first:
+      213: 2555282523504852230
+    second: Cardboard Sword
+  - first:
+      213: 1548873005680349521
+    second: Wooden Sword1
+  - first:
+      213: 5948458750818705121
+    second: Wooden Sword2
+  - first:
+      213: 2256080768362547800
+    second: Wooden Sword3
+  - first:
+      213: 604404093314838024
+    second: Wooden Sword
+  - first:
+      213: -7422009569047272005
+    second: Iron Sword1
+  - first:
+      213: 4886299077583586228
+    second: Iron Sword2
+  - first:
+      213: 1234373253523288672
+    second: Iron Sword3
+  - first:
+      213: 2725551046081216807
+    second: Iron Sword
+  - first:
+      213: -4952395153481378783
+    second: Iron
+  - first:
+      213: 9083735331466955673
+    second: Stones
+  - first:
+      213: 3872075850728602374
+    second: Wood
+  - first:
+      213: 5376066266834478820
+    second: Bones
+  - first:
+      213: -2749627918380197637
+    second: Goo
+  - first:
+      213: 3919186538372716947
+    second: Honey
+  - first:
+      213: -5572013692978327186
+    second: Cactus Flower
+  - first:
+      213: -9100319893543196621
+    second: Leather
+  - first:
+      213: 451181115486586432
+    second: Cardboard Armor1
+  - first:
+      213: -2805836653499157488
+    second: Cardboard Armor2
+  - first:
+      213: -6132527867997141937
+    second: Cardboard Armor3
+  - first:
+      213: -8610964506689036520
+    second: Cardboard Armor
+  - first:
+      213: -3970785658529293624
+    second: Wooden Armor1
+  - first:
+      213: -7310498974093029086
+    second: Wooden Armor2
+  - first:
+      213: -5124598964440764157
+    second: Wooden Armor3
+  - first:
+      213: -6846207235870169282
+    second: Wooden Armor
+  - first:
+      213: 5385884774704631920
+    second: Iron Armor1
+  - first:
+      213: 4320402858902207498
+    second: Iron Armor2
+  - first:
+      213: -6881939345065999858
+    second: Iron Armor3
+  - first:
+      213: 1454376150490850845
+    second: Iron Armor
+  - first:
+      213: 4173269844760544446
+    second: Cardboard Helmet1
+  - first:
+      213: -7083840592894654525
+    second: Cardboard Helmet2
+  - first:
+      213: 5386168099082202559
+    second: Cardboard Helmet3
+  - first:
+      213: 5196756617277014638
+    second: Cardboard Helmet
+  - first:
+      213: -2691427977266642159
+    second: Wooden Helmet1
+  - first:
+      213: -5556479217985481693
+    second: Wooden Helmet2
+  - first:
+      213: -6008360758753346467
+    second: Wooden Helmet3
+  - first:
+      213: -130346554365675842
+    second: Wooden Helmet
+  - first:
+      213: -6844843960280853242
+    second: Iron Helmet1
+  - first:
+      213: 7812397629916184045
+    second: Iron Helmet2
+  - first:
+      213: -4573495299997854344
+    second: Iron Helmet3
+  - first:
+      213: 4964391508717694467
+    second: Iron Helmet
+  - first:
+      213: -4325394985611532456
+    second: Cardboard Shield1
+  - first:
+      213: -7477649012766771228
+    second: Cardboard Shield2
+  - first:
+      213: 9198373701747432974
+    second: Cardboard Shield3
+  - first:
+      213: 3914796872578886464
+    second: Cardboard Shield
+  - first:
+      213: -3570425516425940096
+    second: Wooden Shield1
+  - first:
+      213: -2163457283753074993
+    second: Wooden Shield2
+  - first:
+      213: -8606013226770362589
+    second: Wooden Shield3
+  - first:
+      213: 7317578422715906080
+    second: Wooden Shield
+  - first:
+      213: -4769638940731136447
+    second: Multi_icones_32
+  - first:
+      213: -757202081151582349
+    second: Iron Shield2
+  - first:
+      213: 6931594134820954296
+    second: Iron Shield3
+  - first:
+      213: -3111528053131984678
+    second: Iron Shield
+  - first:
+      213: 8251140392177124558
+    second: Cardboard Sword1
+  - first:
+      213: 1601067291209631932
+    second: Cardboard Sword2
+  - first:
+      213: -7543235513492494804
+    second: Cardboard Sword3
+  - first:
+      213: 3117219210205725635
+    second: Cardboard Sword
+  - first:
+      213: 5810400042578147204
+    second: Wooden Sword1
+  - first:
+      213: -5776320595683507243
+    second: Wooden Sword2
+  - first:
+      213: -8952952996094916602
+    second: Wooden Sword3
+  - first:
+      213: 8548095939425551283
+    second: Wooden Sword
+  - first:
+      213: 4426448904604600010
+    second: Iron Sword1
+  - first:
+      213: -175608397037514743
+    second: Iron Sword2
+  - first:
+      213: 6893115356659372354
+    second: Iron Sword3
+  - first:
+      213: -4489477724162783104
+    second: Iron Sword
+  - first:
+      213: 6267730262406475144
+    second: Iron
+  - first:
+      213: 3840181435256851016
+    second: Wood
+  - first:
+      213: 2695422445439427100
+    second: Bones
+  - first:
+      213: -1811703779338436107
+    second: Goo
+  - first:
+      213: -7334138524301133020
+    second: Honey
+  - first:
+      213: 7823279232382595985
+    second: Cactus Flower
+  - first:
+      213: 1869146674131536095
+    second: Leather
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cardboard Armor1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2135
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04641f585dae24600800000000000000
+      internalID: 451181115486586432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Armor2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2135
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014796afd6aaf09d0800000000000000
+      internalID: -2805836653499157488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Armor3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2135
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44c8d44562e4eaa0800000000000000
+      internalID: -6132527867997141937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Armor
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2135
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f9d4d6765bf7880800000000000000
+      internalID: -8610964506689036520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Armor1
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 2135
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca55205b7fe4e8c0800000000000000
+      internalID: -3970785658529293624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Armor2
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2135
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d35e6ae3eb8a90800000000000000
+      internalID: -7310498974093029086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Armor3
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 2135
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3017c24a464c1e8b0800000000000000
+      internalID: -5124598964440764157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Armor
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2135
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ef3faac26df0a0800000000000000
+      internalID: -6846207235870169282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Armor1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1804
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070547dbaa18eba40800000000000000
+      internalID: 5385884774704631920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Armor2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1804
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cb27b728725fb30800000000000000
+      internalID: 4320402858902207498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Armor3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1804
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e028e83b0a07e70a0800000000000000
+      internalID: -6881939345065999858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Armor
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1804
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16aecb376bfe2410800000000000000
+      internalID: 1454376150490850845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Helmet1
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1804
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb44dc810de6ae930800000000000000
+      internalID: 4173269844760544446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Helmet2
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1804
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c78507338421bd90800000000000000
+      internalID: -7083840592894654525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Helmet3
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1804
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde55659538fba40800000000000000
+      internalID: 5386168099082202559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Helmet
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1804
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6205fc1c969e1840800000000000000
+      internalID: 5196756617277014638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Helmet1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1472
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1134974b38026aad0800000000000000
+      internalID: -2691427977266642159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Helmet2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1472
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324922a379b63e2b0800000000000000
+      internalID: -5556479217985481693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Helmet3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1475
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c3c1c39b30e9ca0800000000000000
+      internalID: -6008360758753346467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Helmet
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1476
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb67659df7ae03ef0800000000000000
+      internalID: -130346554365675842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Helmet1
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1472
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6055b740faa3201a0800000000000000
+      internalID: -6844843960280853242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Helmet2
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1472
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedf147a0463b6c60800000000000000
+      internalID: 7812397629916184045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Helmet3
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1476
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87595bd814ea780c0800000000000000
+      internalID: -4573495299997854344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Helmet
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1476
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e651356cf05e440800000000000000
+      internalID: 4964391508717694467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Shield1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1141
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8576e517d2c19f3c0800000000000000
+      internalID: -4325394985611532456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Shield2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1144
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e77cf657dd0a3890800000000000000
+      internalID: -7477649012766771228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Shield3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1144
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e53fb852037af70800000000000000
+      internalID: 9198373701747432974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Shield
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1141
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04befdd9307245630800000000000000
+      internalID: 3914796872578886464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Shield1
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1141
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083f074e8ec437ec0800000000000000
+      internalID: -3570425516425940096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Shield2
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1141
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce9a2b101bd9f1e0800000000000000
+      internalID: -2163457283753074993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Shield3
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1145
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0a0e119c419880800000000000000
+      internalID: -8606013226770362589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Shield
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1141
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0287b062ec24d8560800000000000000
+      internalID: 7317578422715906080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multi_icones_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 813
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146a9de67a6decdb0800000000000000
+      internalID: -4769638940731136447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Shield2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 814
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff5c118b0ed75f0800000000000000
+      internalID: -757202081151582349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Shield3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 812
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b02f25f328f13060800000000000000
+      internalID: 6931594134820954296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Shield
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 814
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c764a8b1a1d4d0800000000000000
+      internalID: -3111528053131984678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Sword1
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 810
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec448936870f18270800000000000000
+      internalID: 8251140392177124558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Sword2
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 810
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb80c02f732283610800000000000000
+      internalID: 1601067291209631932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Sword3
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 810
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c262b29244b015790800000000000000
+      internalID: -7543235513492494804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cardboard Sword
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 810
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3065f1b56924b20800000000000000
+      internalID: 3117219210205725635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Sword1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 478
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487f8cccd00b2a050800000000000000
+      internalID: 5810400042578147204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Sword2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 478
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d30381c50366dfa0800000000000000
+      internalID: -5776320595683507243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Sword3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 478
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6084ef05fa8b0c380800000000000000
+      internalID: -8952952996094916602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden Sword
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 478
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b34b6797ffe0a670800000000000000
+      internalID: 8548095939425551283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Sword1
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 478
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6cf5f83d7ed6d30800000000000000
+      internalID: 4426448904604600010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Sword2
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 478
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d003e71d109df0800000000000000
+      internalID: -175608397037514743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Sword3
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 478
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d87545e349af50800000000000000
+      internalID: 6893115356659372354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Sword
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 478
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0888f30dbcb22b1c0800000000000000
+      internalID: -4489477724162783104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 149
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d24be37737bf650800000000000000
+      internalID: 6267730262406475144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stones
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 150
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bc0c10829ef0e70800000000000000
+      internalID: 9083735331466955673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 149
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ac8815ba01b4530800000000000000
+      internalID: 3840181435256851016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bones
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 150
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122804ee60186520800000000000000
+      internalID: 2695422445439427100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goo
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 149
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1cc42f2098bd6e0800000000000000
+      internalID: -1811703779338436107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Honey
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 149
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf58dbed7e73a90800000000000000
+      internalID: -7334138524301133020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Flower
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 150
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193fad8230fd19c60800000000000000
+      internalID: 7823279232382595985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leather
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 148
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd886b83ffa80f910800000000000000
+      internalID: 1869146674131536095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f52092d64dc9b7243a10934e4c158af8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player_AvatarMask
+  m_Mask: 01000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Player-rig
+    m_Weight: 1
+  - m_Path: Player-rig/master
+    m_Weight: 1
+  - m_Path: Player-rig/master/body
+    m_Weight: 0
+  - m_Path: Player-rig/master/body/belly
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/neck
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/neck/head
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/neck/head/head_end
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.L
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.L/arm.L
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.L/arm.L/forearm.L
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.L/arm.L/forearm.L/hand.L
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.L/arm.L/forearm.L/hand.L/finger.L
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.L/arm.L/forearm.L/hand.L/finger.L/finger.L_end
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.L/arm.L/forearm.L/hand.L/finger_m.L
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.L/arm.L/forearm.L/hand.L/finger_m.L/finger_m.L_end
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.R
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.R/arm.R
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.R/arm.R/forearm.R
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.R/arm.R/forearm.R/hand.R
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.R/arm.R/forearm.R/hand.R/finger.R
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.R/arm.R/forearm.R/hand.R/finger.R/finger.R_end
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.R/arm.R/forearm.R/hand.R/finger_m.R
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/belly/spine/chest/shoulder.R/arm.R/forearm.R/hand.R/finger_m.R/finger_m.R_end
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/hips
+    m_Weight: 1
+  - m_Path: Player-rig/master/body/hips/thigh.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/body/hips/thigh.L/leg.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/body/hips/thigh.L/leg.L/leg.L_end
+    m_Weight: 0
+  - m_Path: Player-rig/master/body/hips/thigh.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/body/hips/thigh.R/leg.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/body/hips/thigh.R/leg.R/leg.R_end
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/knee_ik.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/knee_ik.L/knee_ik.L_end
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L/foot_rool.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L/foot_rool.L/leg_target.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L/foot_rool.L/leg_target.L/foot.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L/foot_rool.L/leg_target.L/foot.L/toes.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L/foot_rool.L/leg_target.L/foot.L/toes.L/toes.L_end
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L/foot_target.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L/foot_target.L/foot_target.L_end
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L/toes_target.L
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.L/toes_roll.L/toes_target.L/toes_target.L_end
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/knee_ik.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/knee_ik.R/knee_ik.R_end
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R/foot_rool.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R/foot_rool.R/leg_target.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R/foot_rool.R/leg_target.R/foot.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R/foot_rool.R/leg_target.R/foot.R/toes.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R/foot_rool.R/leg_target.R/foot.R/toes.R/toes.R_end
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R/foot_target.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R/foot_target.R/foot_target.R_end
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R/toes_target.R
+    m_Weight: 0
+  - m_Path: Player-rig/master/foot_control.R/toes_roll.R/toes_target.R/toes_target.R_end
+    m_Weight: 0
+  - m_Path: Player_mesh
+    m_Weight: 1
+  - m_Path: Shield
+    m_Weight: 1
+  - m_Path: Sword
+    m_Weight: 1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0299d6df6188a9c49a0da6f79581abac, type: 3}
+  m_Name: 8-Body2
+  m_EditorClassIdentifier: 
+  type: Body
+  subtype: Cardboard Armor
+  icon: {fileID: -4196691919975425181, guid: 6a323672a6c7881479e666a81c894203, type: 3}
+  tier: 2
+  price: 50
+  material1: Cardboard
+  material1quantity: 7
+  material2: Goo
+  material2quantity: 3
+  material3: Bones
+  material3quantity: 2
+  material4: 
+  material4quantity: 0
